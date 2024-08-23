@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw5cWdjcHR3Z3M2aGE2dTQ1d3poejFza242ODRyajQ5c2podGg3eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q1FOFOOF6CE6FlNFxL/giphy.gif" width="100"/> Bienvenid@ al GitHub de Culqui
 
-![Banner de Culqui](banner-github-culqui.png)
+![Banner de Culqui](banner-github-culqui10.png)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/culqui_10?utm_source=qr&igsh=bXN5cXk4bGlsYTJo)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/crys10culqui?mibextid=ZbWKwL)
