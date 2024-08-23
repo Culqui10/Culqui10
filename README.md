@@ -19,7 +19,9 @@ Me especializo en desarrollar sistemas web usando tecnologías como php, python,
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-[![Culqui stats](https://github-readme-stats.vercel.app/api?username=Culqui10)](https://github.com/anuraghazra/github-readme-stats)
+[![Culqui10 stats](https://github-readme-stats.vercel.app/api?username=Culqui10)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Culqui10&layout=compact)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
