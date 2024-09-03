@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/crys10culqui?mibextid=ZbWKwL)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@tlt_culqui?_t=8p7R5Iesefe&_r=1)
 
-Me especializo en desarrollar sistemas web usando tecnologías como php, python, entre otros. Asimismo, crear app android con Android Studio y muy pronto en Unity Hub.
+Me especializo en desarrollar sistemas web usando tecnologías como php, python, entre otros. Asimismo, crear app android con Android Studio y en Unity Hub.
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
